@@ -23,5 +23,7 @@ cd test_task_file_monitoring
     Linux/Mac
     source .venv/bin/activate
 Установка зависимостей
-pip install -r requirements.txt
+    pip install -r requirements.txt
+Запуск:
+    python main.py
 ```
